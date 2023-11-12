@@ -6,6 +6,6 @@
 
 </div>
 
-[Visitar](https://guido2288.github.io/tic-tae-toe/)
+[Visitar](https://guido2288.github.io/mouse-follower/)
 
 El clasico TIC-TAE-TOE con Reactjs
